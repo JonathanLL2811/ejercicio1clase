@@ -1,4 +1,4 @@
-// src/components/Contador.tsx
+
 import React, { useState, useEffect } from 'react';
 
 const Contador: React.FC = () => {
